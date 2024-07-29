@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flyezexpo-dev-b428f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::851725547943:role/amplify-flyezexpo-dev-b428f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::851725547943:role/amplify-flyezexpo-dev-b428f-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-flyezexpo-dev-b428f-deployment",
+      "UnauthRoleName": "amplify-flyezexpo-dev-b428f-unauthRole",
+      "StackName": "amplify-flyezexpo-dev-b428f",
+      "StackId": "arn:aws:cloudformation:us-east-2:851725547943:stack/amplify-flyezexpo-dev-b428f/4f755ac0-4896-11ef-a269-0a3ca14b0427",
+      "AmplifyAppId": "d1qxax66u0tdml"
+    },
+    "categories": {
+      "auth": {
+        "flyezexpo53631e12": {}
+      }
+    }
+  }
+}
