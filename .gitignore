@@ -40,3 +40,5 @@ amplifytools.xcconfig
 
 expo-env.d.ts
 # @end expo-cli
+
+credentials.json

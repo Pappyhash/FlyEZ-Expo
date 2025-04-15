@@ -13,7 +13,8 @@
     },
     "preview": {
       "ios": {
-        "image": "latest"
+        "image": "latest",
+        "credentialsSource": "local"
       },
       "distribution": "internal",
       "channel": "preview"
